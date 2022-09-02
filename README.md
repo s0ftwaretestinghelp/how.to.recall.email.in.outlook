@@ -1,6 +1,6 @@
 # how to recall email in outlook
 
-[![how to recall email in outlook](gett-detail.png)](https://computersolve.com/how-to-recall-mail-in-outlook)
+[![how to recall email in outlook](gett-detail.png)](https://icncomputer.com/how-to-recall-mail-in-outlook)
 
 When you attempt to retract email, Outlook may notify the recipient of the recalled email. To recall an email in Outlook:
 
